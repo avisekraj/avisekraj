@@ -10,14 +10,14 @@
 
 # 🔥 Skills 🔥
 
-<h3>🔹Backend Languages:</h3>
+<h3 align="left">🔹Backend Languages:</h3>
 
 <p align="left" style="padding:10px;">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="240" height="240"/> </a>
     
 </p>
 
-### 🔹Frontend Development:ㅤ
+<h3 align="left">🔹Frontend Development:</h3>ㅤ
 <p align="left" style="padding:10px;">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/> </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="100" height="100"/> </a> 
@@ -27,30 +27,30 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100"/> </a>
 </p>
 
-### 🔹Databases:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+<h3 align="left">🔹Databases:</h3>
 <p align="left" style="padding:10px;"> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/> </a>
 </p>
 
-### 🔹Programming Languages:ㅤㅤㅤㅤㅤㅤㅤㅤ
+<h3 align="left">🔹Programming Languages:</h3>
 <p align="left" style="padding:10px;"> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a> 
 </p>
 
-### 🔹Others:ㅤㅤㅤㅤㅤㅤㅤㅤ
+<h3 align="left">🔹Others:</h3>ㅤㅤㅤㅤㅤㅤㅤㅤ
 <p align="left" style="padding:10px;"> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100"/> </a> 
 </p>
 
-### 🔹Connect with me:ㅤㅤㅤㅤㅤㅤㅤㅤ
+<h3 align="left">🔹Connect with me:</h3>ㅤㅤㅤㅤㅤㅤㅤㅤ
  <p align="left" style="padding:10px;">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-raj-3a548a227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-raj-3a548a227/" height="30" width="100" /></a>
     <a href="https://instagram.com/devil_.001_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devil_.001_" height="30" width="100" /></a>
-    <a href="https://portfolio-by-abhishek.herokuapp.com/" target="blank"><img align="center" src="portfolio.png" alt="Portfolio" height="100" width="100" /><span style="font-size: 20px;text-decoration: none;">Portfolio</span></a>
+    <a href="https://portfolio-by-abhishek.herokuapp.com/" target="blank"><img align="center" src="portfolio.png" alt="Portfolio" height="50" width="50" /></a>
 
  </p>
 
