@@ -68,7 +68,6 @@
   <a href="https://github.com/avisekraj">
     <img src="https://github-readme-stats.vercel.app/api?username=avisekraj&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=avisekraj&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=avisekraj&theme=react-dark" />
   </a>
 </p>
 
