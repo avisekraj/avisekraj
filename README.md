@@ -4,7 +4,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=2046F7&center=true&vCenter=true&width=800&lines=%E2%9C%A8%F0%9F%8E%80+%F0%9D%90%BB%F0%9D%91%92%F0%9D%93%8E%E2%9D%A2+%F0%9D%90%BC%F0%9D%93%89'%F0%9D%93%88++%F0%9D%92%9C%F0%9D%92%B7%F0%9D%92%BD%F0%9D%92%BE%F0%9D%93%88%F0%9D%92%BD%F0%9D%91%92%F0%9D%93%80+%F0%9D%91%85%F0%9D%92%B6%F0%9D%92%BF%F0%9F%91%8B%F0%9F%8F%BB++%E2%9C%A8%F0%9F%8E%80;%F0%9D%90%BC'%F0%9D%93%82+%F0%9D%92%B6+%F0%9D%92%B2%F0%9D%91%92%F0%9D%92%B7+%F0%9D%92%9F%F0%9D%91%92%F0%9D%93%8B%F0%9D%91%92%F0%9D%93%81%F0%9D%91%9C%F0%9D%93%85%F0%9D%91%92%F0%9D%93%87+%F0%9D%92%B6%F0%9D%93%83%F0%9D%92%B9+%F0%9D%92%AB%F0%9D%93%87%F0%9D%91%9C%F0%9D%91%94%F0%9D%93%87%F0%9D%92%B6%F0%9D%93%82%F0%9D%93%82%F0%9D%91%92%F0%9D%93%87+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Abhishek Raj" width="650" height="55">
 
-<p  align="center">
+<p  align="left">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
