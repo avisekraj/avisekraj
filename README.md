@@ -10,11 +10,11 @@
 
 # 🔥 Skills 🔥
 
-### 🔹Backend Languages:ㅤㅤㅤㅤㅤㅤㅤ
+<h1>### 🔹Backend Languages:</h1>
 
 <p align="left" style="padding:10px;">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="240" height="240"/> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="140" height="140"/> </a>
+    
 </p>
 
 ### 🔹Frontend Development:ㅤ
