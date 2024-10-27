@@ -49,8 +49,8 @@
 <h3 align="left">🔹Connect with me:</h3>ㅤㅤㅤㅤㅤㅤㅤㅤ
  <p align="left" style="padding:10px;">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-raj-3a548a227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-raj-3a548a227/" height="30" width="100" /></a>
-    <a href="https://instagram.com/devil_.001_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devil_.001_" height="30" width="100" /></a>
-    <a href="https://portfolio-by-abhishek.herokuapp.com/" target="blank"><img align="center" src="portfolio.png" alt="Portfolio" height="50" width="50" /></a>
+    <a href="https://instagram.com/_abhi_shek_mishra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devil_.001_" height="30" width="100" /></a>
+    <a href="https://abhishek-simple-portfolio.onrender.com/" target="blank"><img align="center" src="portfolio.png" alt="Portfolio" height="50" width="50" /></a>
 
  </p>
 
